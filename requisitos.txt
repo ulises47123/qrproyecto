@@ -1,0 +1,11 @@
+# GUI
+PyQt6
+# Base de Datos
+SQLAlchemy # ORM opcional para SQLite, útil para gestión de DB [cite: 12]
+# Webcam y QR
+opencv-python
+pyzbar
+qrcode
+Pillow
+# Reportes y utilidades
+pandas
